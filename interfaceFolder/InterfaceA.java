@@ -1,5 +1,5 @@
 package interfaceFolder;
 
-public class InterfaceA {
-  
+public interface InterfaceA {
+  public void methodA();
 }
